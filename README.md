@@ -67,13 +67,13 @@ A IA identificou a área de **Engenharia de IA Aplicada** e dividiu o aprendizad
 
 **Objetivo**: Consolidar Python, Docker, Linux e Git.
 
-| Tópico | Link |
-|--------|------|
-| Python – Curso em Vídeo | [Playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) |
-| Python Projects (freeCodeCamp) | [Vídeo](https://www.youtube.com/watch?v=8ext9G7x7ug) |
-| Docker – AkitaOnRails | [Vídeo](https://www.youtube.com/watch?v=Wm1MmuYyK2o) |
-| Linux – Diolinux | [Playlist](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAyYDtXcFDz) |
-| Git/GitHub – Loiane Groner | [Playlist](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWl_YkwC9c0cE9eYrD) |
+| Tópico | Como encontrar no YouTube |
+|--------|---------------------------|
+| **Python – Curso em Vídeo** | Canal: `@CursoemVideo` – Pesquise por "Curso de Python 3 - Mundo 1, 2 e 3" (playlists separadas por mundo) |
+| **Python Projects (freeCodeCamp)** | Canal: `@freecodecamp` – Pesquise por "12 Beginner Python Projects" (vídeo único de ~3h) |
+| **Docker – AkitaOnRails** | Canal: `@AkitaOnRails` – Pesquise por "Docker para desenvolvedores" |
+| **Linux – Diolinux** | Canal: `@Diolinux` – Pesquise por "Curso de Linux para iniciantes" |
+| **Git/GitHub – Loiane Groner** | Canal: `@loianegroner` – Pesquise por "Curso de Git e GitHub" |
 
 ---
 
@@ -81,13 +81,13 @@ A IA identificou a área de **Engenharia de IA Aplicada** e dividiu o aprendizad
 
 **Objetivo**: Aprender a usar LLMs, APIs, LangChain e bancos vetoriais.
 
-| Tópico | Link |
-|--------|------|
-| IA para Programadores – Filipe Deschamps | [Playlist](https://www.youtube.com/playlist?list=PLMdYygfYBDPKduvPfk0B3cmJOp6W5lON3) |
-| LangChain Tutorial – Nicholas Renotte | [Vídeo](https://www.youtube.com/watch?v=aywZrzNaKjs) |
-| Chatbot com OpenAI – Hashtag Programação | [Vídeo](https://www.youtube.com/watch?v=2FpIMNfyX9Q) |
-| FastAPI + Docker – Código Fonte TV | [Vídeo](https://www.youtube.com/watch?v=UxQ5N3nL1to) |
-| Vector Databases – freeCodeCamp | [Vídeo](https://www.youtube.com/watch?v=JEBDfGqrAUA) |
+| Tópico | Como encontrar no YouTube |
+|--------|---------------------------|
+| **IA para Programadores – Filipe Deschamps** | Canal: `@FilipeDeschamps` – Pesquise por "IA para Programadores" (playlist específica) |
+| **LangChain – Nicholas Renotte** | Canal: `@NicholasRenotte` – Pesquise por "LangChain Tutorial" (canal tem vários vídeos sobre o tema) |
+| **Chatbot com OpenAI – Hashtag Programação** | Canal: `@HashtagProgramacao` – Pesquise por "Chatbot com OpenAI" |
+| **FastAPI + Docker – Código Fonte TV** | Canal: `@codigofontetv` – Pesquise por "FastAPI e Docker" |
+| **Vector Databases – freeCodeCamp** | Canal: `@freecodecamp` – Pesquise por "Vector Databases" |
 
 ---
 
@@ -95,12 +95,12 @@ A IA identificou a área de **Engenharia de IA Aplicada** e dividiu o aprendizad
 
 **Objetivo**: Transformar conhecimento em MVP e portfólio.
 
-| Tópico | Link |
-|--------|------|
-| Streamlit + AI – Pythonando | [Vídeo](https://www.youtube.com/watch?v=Jk9O4j2b_5s) |
-| Como criar um MVP – Startup da Vez | [Vídeo](https://www.youtube.com/watch?v=KjVqE5zL6xY) |
-| Deploy no Render – Código Fonte TV | [Vídeo](https://www.youtube.com/watch?v=8tU5j4yK1vU) |
-| Portfólio Dev – Rafaella Ballerini | [Vídeo](https://www.youtube.com/watch?v=31dpuyYVh6c) |
+| Tópico | Como encontrar no YouTube |
+|--------|---------------------------|
+| **Streamlit + IA – Pythonando** | Canal: `@Pythonando` – Pesquise por "Streamlit com Inteligência Artificial" |
+| **Como criar um MVP – Startup da Vez** | Canal: `@StartupdaVez` – Pesquise por "Como criar um MVP" |
+| **Deploy no Render – Código Fonte TV** | Canal: `@codigofontetv` – Pesquise por "Deploy no Render" |
+| **Portfólio Dev – Rafaella Ballerini** | Canal: `@RafaellaBallerini` – Pesquise por "Como criar um portfólio de programação" |
 
 ---
 
@@ -108,11 +108,11 @@ A IA identificou a área de **Engenharia de IA Aplicada** e dividiu o aprendizad
 
 **Objetivo**: Networking, certificações e desenvolvimento de negócio.
 
-| Tópico | Link |
-|--------|------|
-| Startup na Prática – Sebrae | [Vídeo](https://www.youtube.com/watch?v=3nWj_6F5bqg) |
-| AWS Cloud Practitioner – freeCodeCamp | [Vídeo](https://www.youtube.com/watch?v=SOTamWNgDKc) |
-| Canais recomendados | Lucas Montano, Filipe Deschamps, Andrej Karpathy |
+| Tópico | Como encontrar / Dicas |
+|--------|------------------------|
+| **Startup na Prática – Sebrae** | Canal: `@Sebrae` – Pesquise por "Startup na Prática" |
+| **AWS Cloud Practitioner – freeCodeCamp** | Canal: `@freecodecamp` – Pesquise por "AWS Cloud Practitioner" |
+| **Canais recomendados** | Lucas Montano, Filipe Deschamps, Andrej Karpathy (consuma conteúdo em inglês) |
 
 ---
 
@@ -132,7 +132,7 @@ A IA identificou a área de **Engenharia de IA Aplicada** e dividiu o aprendizad
 
 ## Prompt Utilizado
 
-O prompt completo que orientou a IA está disponível no arquivo ['prompt.md'](./prompt.md) (ou [https://github.com/PatrickWyllian/mentor-ia-carreira/blob/main/prompt.md](#1-prompt-utilizado-texto-original) para ver o conteúdo).
+O prompt completo que orientou a IA está disponível no arquivo [`prompt.md`](./prompt.md) (ou [clique aqui](https://github.com/PatrickWyllian/mentor-ia-carreira/blob/main/prompt.md) para ver o conteúdo).
 
 ---
 
